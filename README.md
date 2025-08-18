@@ -1,4 +1,12 @@
-<h2 align="left">Hi 👋! My name is Yaseen Saeed</h2>
+<br clear="both">
+
+<img align="right" height="165" src="https://media2.giphy.com/avatars/HeyAutoHQ/DgfrJNR8oUyv.gif"  />
+
+###
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFD700&width=435&lines=Hi+%F0%9F%91%8B!+I'm+Yaseen+Saeed" alt="Typing SVG" />
+</p>
 
 ###
 
@@ -6,23 +14,11 @@
 
 ###
 
-<br clear="both">
+<img align="right" height="167" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif"  />
+
+###
 
 <h4 align="left">Currently Learning:<br><br>a. Python<br>b. HTML<br>c. CSS<br>d. Javascript<br>e. Dart</h4>
-
-###
-
-<br clear="both">
-
-<img align="right" height="150" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/Yaseen-Saeed123/Yaseen-Saeed123/output/snake.svg" alt="Snake animation" />
-
-###
-
-<h3 align="left">Some important Stats:</h3>
 
 ###
 
